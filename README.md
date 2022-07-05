@@ -1,2 +1,6 @@
 ## Hi, my name is Nathan 👋
-💡I’m currently learning about Azure PowerShell and the Microsoft Power Platform.
+- 👨‍💻I’m interested in cloud computing and automation
+- 💡My main areas of focus are Microsoft Azure, PowerShell and the Microsoft Power Platform
+
+
+
