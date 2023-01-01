@@ -3,6 +3,6 @@ I am a technology enthusiast with a particular interest in PowerShell, Microsoft
 
 I have been working in the IT industry for a number of years and have always been drawn to the power and flexibility of these technologies. I enjoy finding ways to solve problems and improve efficiency.
 
-In my free time, I like to keep up to date with the latest developments in the tech world, exploring new tools and technologies, and sharing my knowledge with others.
+In my free time, I like to keep up to date with the latest developments in the tech world, explore new tools and technologies, and share my knowledge with others.
 
 Thank you for visiting my GitHub page. Please don't hesitate to get in touch if you have any questions or suggestions.
