@@ -5,4 +5,4 @@ I have been working in the IT industry for a number of years and have always bee
 
 In my free time, I like to keep up to date with the latest developments in the tech world, exploring new tools and technologies, and sharing my knowledge with others.
 
-Thank you for visiting my GitHub page. Please don't hesitate to reach out if you have any questions or suggestions.
+Thank you for visiting my GitHub page. Please don't hesitate to get in touch if you have any questions or suggestions.
